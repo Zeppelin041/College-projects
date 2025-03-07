@@ -24,4 +24,5 @@ This repository contains my final projects from various CYB courses, highlightin
 🔗 Network Defense & Security Architecture – Designed and implemented firewall rules, VPNs, and zero-trust security models.
 
 🎯 Why This Matters
+
 This repository serves as a portfolio of my cybersecurity expertise, showcasing my ability to apply industry best practices and tools to real-world security challenges. Each project reflects critical thinking, problem-solving, and hands-on technical skills that are valuable in roles such as Cybersecurity Analyst, SOC Analyst, IT Security Specialist, and Penetration Tester.
