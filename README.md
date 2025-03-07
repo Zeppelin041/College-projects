@@ -1,4 +1,4 @@
-Cybersecurity Degree Final Projects – SNHU
+Cybersecurity Degree Final Projects
 
 Welcome to my repository! This collection showcases the final projects I completed as part of my Bachelor’s Degree in Cybersecurity at Southern New Hampshire University (SNHU). Each project demonstrates hands-on experience in cybersecurity concepts, risk management, network defense, and security operations.
 
